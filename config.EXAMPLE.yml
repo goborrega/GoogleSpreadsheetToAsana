@@ -1,0 +1,8 @@
+
+google_drive:
+  username: john.doe@gmail.com
+  password: MyPassword
+
+asana:
+  # your Asana API Key - http://developer.asana.com/documentation/#api_keys
+  api_key: exAmpLE.ApiKEYEXtractedFROMAsana
